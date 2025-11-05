@@ -1,0 +1,15 @@
+{
+  "name": "agentic-471e6cf9",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p ${PORT:-3000}"
+  },
+  "dependencies": {
+    "next": "14.2.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
